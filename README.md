@@ -33,7 +33,13 @@ Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 visit Mongodb to create a cluster and deploy it in in App.js
 
 ## DEMO
-Please refer to link for demo.\
-https://drive.google.com/file/d/1LPJLW88dulelmrYjqNsUe1HgHuH3cC4z/view?usp=sharing
+![image](https://github.com/mehul-16/Blog_site/assets/83583897/91512896-8125-467e-81bc-88df836b9e64)
+![image](https://github.com/mehul-16/Blog_site/assets/83583897/7658410d-1a39-4a11-87d4-5c2ac812d191)
+![image](https://github.com/mehul-16/Blog_site/assets/83583897/afa4e37e-26d5-45c5-9947-8d312badb670)
+![image](https://github.com/mehul-16/Blog_site/assets/83583897/6cc3b787-9904-430f-befb-02cd99370c02)
+
+
+
+
 
 
