@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(277deg, #16222a, #02070a, #0d5f90);
+    background-size: 600% 600%;
+    -webkit-animation: AnimationName 21s ease infinite;
+    -moz-animation: AnimationName 21s ease infinite;
+    animation: AnimationName 21s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 37%}
+    50%{background-position:100% 64%}
+    100%{background-position:0% 37%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 37%}
+    50%{background-position:100% 64%}
+    100%{background-position:0% 37%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 37%}
+    50%{background-position:100% 64%}
+    100%{background-position:0% 37%}
+}
+
+h1 {
+    position: relative;
+    color: rgba(12, 0, 0, .3);
+    font-size: 1em;
+    display: inline-block;
+}
+h1:before {
+    content: attr(data-text);
+    position: absolute;
+    overflow: hidden;
+    max-width: 8em;
+    white-space: nowrap;
+    color: #f1faee;
+    animation: loading 8s linear;
+}
+@keyframes loading {
+    0% {
+        max-width: 0;
+    }
+   
+}
+.f1{
+    color: red;
+}
